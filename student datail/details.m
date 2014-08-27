@@ -9,6 +9,6 @@
 #import "details.h"
 
 @implementation details
-@synthesize name,mark1,mark2,mark3,mark4,mark5,total,average;
+@synthesize name,marks,total,average;
 
 @end
